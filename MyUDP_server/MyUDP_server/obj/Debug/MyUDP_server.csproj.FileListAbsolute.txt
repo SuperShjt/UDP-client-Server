@@ -1,0 +1,7 @@
+C:\Users\SuperShjt\source\repos\MyUDP_server\MyUDP_server\bin\Debug\MyUDP_server.exe.config
+C:\Users\SuperShjt\source\repos\MyUDP_server\MyUDP_server\bin\Debug\MyUDP_server.exe
+C:\Users\SuperShjt\source\repos\MyUDP_server\MyUDP_server\bin\Debug\MyUDP_server.pdb
+C:\Users\SuperShjt\source\repos\MyUDP_server\MyUDP_server\obj\Debug\MyUDP_server.csprojAssemblyReference.cache
+C:\Users\SuperShjt\source\repos\MyUDP_server\MyUDP_server\obj\Debug\MyUDP_server.csproj.CoreCompileInputs.cache
+C:\Users\SuperShjt\source\repos\MyUDP_server\MyUDP_server\obj\Debug\MyUDP_server.exe
+C:\Users\SuperShjt\source\repos\MyUDP_server\MyUDP_server\obj\Debug\MyUDP_server.pdb
